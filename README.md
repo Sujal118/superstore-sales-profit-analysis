@@ -2,8 +2,6 @@
 
 An end-to-end sales and profitability analysis of the **Sample Superstore** dataset (2011–2014), covering SQL analytics, exploratory data analysis in Python, an interactive Power BI dashboard, and a polished PDF business report.
 
-> **TL;DR** — $2.30M in sales and $286K in profit (12.5% margin) over four years. Technology and Office Supplies are the profit engines (~17% margin); Furniture is a structural drag (2.5% margin). Discounts above 20% flip orders unprofitable, and four states (TX, OH, PA, IL) are net loss-making despite strong sales volume.
-
 ---
 
 ## Repository Contents
